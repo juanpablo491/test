@@ -1,0 +1,19 @@
+prueba #1
+cuando el ususario ingrese 25
+debera devolver un equivocado
+
+prueba #2
+cuando el usuario ingrese 10
+debera devolver mañana
+
+prueba #3
+cuando el usuario ingrese 4
+debera devolver noche
+
+prueba #4
+cuando el usuario ingrese 13
+debera devolver Tarde
+
+prueba #5
+cuando el usuario ingrese 22
+debera devolver Noche
